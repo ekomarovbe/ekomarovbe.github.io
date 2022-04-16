@@ -1,0 +1,10 @@
+body {
+    background-color: #020e28;
+    color: #fff;
+    width: 960px;
+    margin: 0 auto;
+}
+
+.important {
+    font-weight: bold;
+}
