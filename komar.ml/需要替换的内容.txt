@@ -1,0 +1,5 @@
+1、首页-替换网站LOGO
+2、首页-开发者名称替换为 Komar
+3、首页-游戏名称、icon、简介替换
+4、首页-底部 Contact us邮箱替换为 ekomarovbe@gmail.com
+5、Pricacy policy页面中开发者名称、官网链接（komar.ml）、联系邮箱（第10项）替换
